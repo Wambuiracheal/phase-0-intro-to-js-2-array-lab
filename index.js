@@ -96,7 +96,7 @@ function catLength(cats){
 
 //test8
 function removeFirstCat(){
-    return cats.slice(1)
+    return cats.slice(1) 
 }
 
 
